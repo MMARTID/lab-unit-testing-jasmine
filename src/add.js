@@ -7,6 +7,4 @@ function add (numOne, numTwo) {
     } else {
         return numOne + numTwo;
 }
-    }
-    
-
+}
